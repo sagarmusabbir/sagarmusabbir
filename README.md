@@ -10,13 +10,12 @@ Hi coders, welcome to my terminal<br>
 <li>You can find me on [<a href="https://dev.to/sagarmusabbir"  target="_blank">Dev.To</a>] [<a href="https://medium.com/@sagarmusabbir"  target="_blank">Medium</a>]</li>  
 </ul> 
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![JavaScript](https://cdn-icons-png.flaticon.com/128/1199/1199124.png)  |  ![React](https://cdn-icons-png.flaticon.com/128/1199/1199124.png)
 
 <p float="left">
-  <img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" width="100" />
-  <img src="https://cdn-icons-png.flaticon.com/128/11229/11229335.png" width="100" /> 
-  <img src="https://icons8.com/icon/84710/bootstrap" width="100" />
- 
+  <img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" width="70" />
+  <img src="https://img.icons8.com/?size=512&id=CIAZz2CYc6Kc&format=png" width="70" /> 
+  <img src="https://img.icons8.com/?size=512&id=84710&format=png" width="70" /> 
+  <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="70" /> 
+  <img src="https://www.svgrepo.com/show/439290/react.svg" width="70" /> 
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="70" />
 </p>
