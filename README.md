@@ -12,12 +12,21 @@ Hi coders, welcome to my terminal<br>
 
 My Toys
 <p float="left">
-  <img src="https://img.shields.io/badge/_cloudflare-%23334155?style=for-the-badge&logo=cloudflare"/>
-  <img src="https://img.icons8.com/?size=512&id=CIAZz2CYc6Kc&format=png" width="70" /> 
-  <img src="https://img.icons8.com/?size=512&id=84710&format=png" width="70" /> 
-  <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="70" /> 
-  <img src="https://www.svgrepo.com/show/439290/react.svg" width="70" /> 
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="70" />
+<img src="https://img.shields.io/badge/_cloudflare-%23334155?style=for-the-badge&logo=cloudflare"/>
+<img src="https://img.shields.io/badge/_-Next-%23334155?style=for-the-badge&logo=next.js"/> 
+<img src="https://img.shields.io/badge/_-Tailwind-%23334155?style=for-the-badge&logo=tailwindcss"/> 
+<img src="https://img.shields.io/badge/_-Node-%23334155?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/_-Javascript-%23334155?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/_-React-%23334155?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/_-Markdown-%23334155?style=for-the-badge&logo=markdown"/>
+<img src="https://img.shields.io/badge/_-Vercel-%23334155?style=for-the-badge&logo=vercel"/><img src="https://img.shields.io/badge/_-Netlify-%23334155?style=for-the-badge&logo=netlify"/>
+<img src="https://img.shields.io/badge/_-Wordpress-%23334155?style=for-the-badge&logo=wordpress"/>
+<img src="https://img.shields.io/badge/_-Elementor-%23334155?style=for-the-badge&logo=elementor"/>
+<img src="https://img.shields.io/badge/_-Ghost-%23334155?style=for-the-badge&logo=ghost"/>
+<img src="https://img.shields.io/badge/_-Go-%23334155?style=for-the-badge&logo=go"/>
+<img src="https://img.shields.io/badge/_-Hugo-%23334155?style=for-the-badge&logo=hugo"/>
+<img src="https://img.shields.io/badge/_amazon-%23334155?style=for-the-badge&logo=amazon-aws"/>
+<img src="https://img.shields.io/badge/_amazon-%23334155?style=for-the-badge&logo=amazon-aws"/>
 </p>
 
 [![Header](https://www.creative-tim.com/blog/content/images/size/w1140/2021/08/rebranding-post--1-.jpg "Header")](https://www.creative-tim.com/)
