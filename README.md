@@ -1,3 +1,5 @@
+[![Header](https://www.creative-tim.com/blog/content/images/size/w1140/2021/08/rebranding-post--1-.jpg "Header")](https://www.creative-tim.com/)
+
 Hi coders, welcome to my terminal<br>
 <ul>
 <li>I'm <a href="https://musabbirsagar.com/" target="_blank">Musabbir Sagar</a></li>
@@ -29,4 +31,4 @@ My Toys
 <img src="https://img.shields.io/badge/_amazon-%23334155?style=for-the-badge&logo=amazon-aws"/>
 </p>
 
-[![Header](https://www.creative-tim.com/blog/content/images/size/w1140/2021/08/rebranding-post--1-.jpg "Header")](https://www.creative-tim.com/)
+
