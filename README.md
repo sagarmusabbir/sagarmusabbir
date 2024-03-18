@@ -25,7 +25,8 @@ I have over a decade of experience in web development, having worked with multip
 <img src="https://img.shields.io/badge/_-Javascript-%23334155?style=for-the-badge&logo=javascript"/>
 <img src="https://img.shields.io/badge/_-React-%23334155?style=for-the-badge&logo=react"/>
 <img src="https://img.shields.io/badge/_-Markdown-%23334155?style=for-the-badge&logo=markdown"/>
-<img src="https://img.shields.io/badge/_-Vercel-%23334155?style=for-the-badge&logo=vercel"/><img src="https://img.shields.io/badge/_-Netlify-%23334155?style=for-the-badge&logo=netlify"/>
+<img src="https://img.shields.io/badge/_-Vercel-%23334155?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/_-Netlify-%23334155?style=for-the-badge&logo=netlify"/>
 <img src="https://img.shields.io/badge/_-Wordpress-%23334155?style=for-the-badge&logo=wordpress"/>
 <img src="https://img.shields.io/badge/_-Elementor-%23334155?style=for-the-badge&logo=elementor"/>
 <img src="https://img.shields.io/badge/_-Ghost-%23334155?style=for-the-badge&logo=ghost"/>
