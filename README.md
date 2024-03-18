@@ -12,7 +12,7 @@ Hi coders, welcome to my terminal<br>
 
 My Toys
 <p float="left">
-  <img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" width="70" />
+  <img src="https://img.shields.io/badge/_cloudflare-%23334155?style=for-the-badge&logo=cloudflare" width="70" />
   <img src="https://img.icons8.com/?size=512&id=CIAZz2CYc6Kc&format=png" width="70" /> 
   <img src="https://img.icons8.com/?size=512&id=84710&format=png" width="70" /> 
   <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="70" /> 
@@ -21,4 +21,3 @@ My Toys
 </p>
 
 [![Header](https://www.creative-tim.com/blog/content/images/size/w1140/2021/08/rebranding-post--1-.jpg "Header")](https://www.creative-tim.com/)
-[F](https://img.shields.io/badge/_cloudflare-%23334155?style=for-the-badge&logo=cloudflare)
