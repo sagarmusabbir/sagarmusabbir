@@ -16,7 +16,7 @@ I have over a decade of experience in web development, having worked with multip
 
 
 
-⚙️ My Ecosystem
+**⚙️ My Ecosystem**
 <p float="left">
 <img src="https://img.shields.io/badge/_cloudflare-%23334155?style=for-the-badge&logo=cloudflare"/>
 <img src="https://img.shields.io/badge/_-Next-%23334155?style=for-the-badge&logo=next.js"/> 
@@ -34,5 +34,24 @@ I have over a decade of experience in web development, having worked with multip
 <img src="https://img.shields.io/badge/_-Hugo-%23334155?style=for-the-badge&logo=hugo"/>
 <img src="https://img.shields.io/badge/_amazon-%23334155?style=for-the-badge&logo=amazon-aws"/>
 </p>
+
+
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sagarmusabbir&show_icons=true&theme=radical" alt="My github stats" />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarmusabbir&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarmusabbir&show_icons=true&theme=radical" />
+
+
+**🤖 Open Source Contributions**
+
+|[<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sagarmusabbir&repo=Eventually&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://www.creative-tim.com/courses "How to use React with Firebase and Redux: Introduction")|[<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sagarmusabbir&repo=Eventually&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://www.creative-tim.com/courses "How to use React with Firebase and Redux: Introduction")|[<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sagarmusabbir&repo=Eventually&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://www.creative-tim.com/courses "How to use React with Firebase and Redux: Introduction")
+|:--:|:--:|:--:|
+|[<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sagarmusabbir&repo=Eventually&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://www.creative-tim.com/courses "How to use React with Firebase and Redux: Introduction")|[<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sagarmusabbir&repo=Eventually&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://www.creative-tim.com/courses "How to use React with Firebase and Redux: Introduction")|[<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sagarmusabbir&repo=Eventually&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://www.creative-tim.com/courses "How to use React with Firebase and Redux: Introduction")
+
+
+
+
 
 
