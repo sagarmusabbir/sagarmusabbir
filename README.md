@@ -7,12 +7,12 @@ Hi there ✋!
 I have over a decade of experience in web development, having worked with multiple development agencies and achieved success on platforms like Upwork and Turing. I've also established my own custom web development agency in the UK called Third Bracket. Additionally, I contribute to open source projects through NomadGang.com.
 
 
-- 💼   I’ve founded <a href="https://www.thirdbracket.co.uk"  target="_blank">Third Bracket</a> and overlook <a href="https://www.nomadgang.com"  target="_blank">NoMadGang</a>
-- ✍🏻   I regularly write articles on <a href="https://www.blog.musabbirsagar.com"  target="_blank">My Blog</a> and <a href="https://medium.com/@sagarmusabbir"  target="_blank">Medium</a>
-- ❓   Ask me anything on <a href="https://bn.quora.com/profile/Musabbir-Sagar-1" target="_blank">Quora</a>
-- #️⃣   Connect with me on social on <a href="https://www.facebook.com/wwolverinee"  target="_blank">Facebook</a> and <a href="https://www.linkedin.com/in/musabbirsagar/" target="_blank">LinkedIn</a> and <a href="https://twitter.com/MusabbirSagar" target="_blank">Twitter</a>
-- 💬   Directly reach me by messege at <a href="https://wa.me/881765692886" target="_blank">WhatsApp</a> or by email at <a href="mailto:sagarmusabbir@gmail.com" target="_blank">Email</a>
-- 🔗   Follow my digital footprints on <a href="https://dev.to/sagarmusabbir"  target="_blank">Dev.To</a> <a href="https://medium.com/@sagarmusabbir"  target="_blank">Medium</a>
+💼.  I’ve founded <a href="https://www.thirdbracket.co.uk"  target="_blank">Third Bracket</a> and overlook <a href="https://www.nomadgang.com"  target="_blank">NoMadGang</a>
+✍🏻.  I regularly write articles on <a href="https://www.blog.musabbirsagar.com"  target="_blank">My Blog</a> and <a href="https://medium.com/@sagarmusabbir"  target="_blank">Medium</a>
+❓.  Ask me anything on <a href="https://bn.quora.com/profile/Musabbir-Sagar-1" target="_blank">Quora</a>
+#️⃣.  Connect with me on social on <a href="https://www.facebook.com/wwolverinee"  target="_blank">Facebook</a> and <a href="https://www.linkedin.com/in/musabbirsagar/" target="_blank">LinkedIn</a> and <a href="https://twitter.com/MusabbirSagar" target="_blank">Twitter</a>
+💬.  Directly reach me by messege at <a href="https://wa.me/881765692886" target="_blank">WhatsApp</a> or by email at <a href="mailto:sagarmusabbir@gmail.com" target="_blank">Email</a>
+🔗.  Follow my digital footprints on <a href="https://dev.to/sagarmusabbir"  target="_blank">Dev.To</a> <a href="https://medium.com/@sagarmusabbir"  target="_blank">Medium</a>
 
 
 
