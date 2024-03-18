@@ -2,7 +2,7 @@
 
 Hi there ✋!
 
-🤟 A web development polymath and digital nomad who loves to create stunning websites with cutting-edge technologies.
+🤟 This is Musabbir sagar, A web development polymath and digital nomad who loves to create stunning websites with cutting-edge technologies.
 
 I have over a decade of experience in web development, having worked with multiple development agencies and achieved success on platforms like Upwork and Turing. I've also established my own custom web development agency in the UK called Third Bracket. Additionally, I contribute to open source projects through NomadGang.com.
 
