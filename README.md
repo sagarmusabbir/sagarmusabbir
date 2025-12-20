@@ -1,4 +1,4 @@
-<a href="https://musabbirsagar.com"  target="_blank"><img src="https://raw.githubusercontent.com/sagarmusabbir/musabbirsagar/main/public/mycard.png" href="https://www.musabbirsagar.com/"/></a>
+<a href="https://musabbirsagar.me"  target="_blank"><img src="https://raw.githubusercontent.com/thirdbracketuk/musabbirsagar.me/main/public/musabbirsagar-card-light.png" href="https://www.musabbirsagar.me/"/></a>
 
 Hi there ✋!
 
@@ -7,16 +7,16 @@ Hi there ✋!
 I have over a decade of experience in web development, having worked with multiple development agencies and achieved success on platforms like Upwork and Turing. I've also established my own custom web development agency in the UK called Third Bracket. Additionally, I contribute to open source projects through NomadGang.com.
 
 
-💼.  I’ve founded <a href="https://www.thirdbracket.co.uk"  target="_blank">Third Bracket</a> and overlook <a href="https://www.nomadgang.com"  target="_blank">NoMadGang</a><br/>
-✍🏻.  I regularly write articles on <a href="https://www.blog.musabbirsagar.com"  target="_blank">My Blog</a> and <a href="https://medium.com/@sagarmusabbir"  target="_blank">Medium</a><br/>
+💼.  I’ve founded <a href="https://www.thirdbracket.co.uk"  target="_blank">Third Bracket</a> and overlook <a href="https://www.npmjs.com/package/@thirdbracket/bracketui"  target="_blank">BracketUI</a><br/>
+✍🏻.  I regularly write articles on <a href="https://www.thirdbracket.co.uk/blog"  target="_blank">My Blog</a><br/>
 ❓.  Ask me anything on <a href="https://bn.quora.com/profile/Musabbir-Sagar-1" target="_blank">Quora</a><br/>
 #️⃣.  Connect with me on social on <a href="https://www.facebook.com/wwolverinee"  target="_blank">Facebook</a> and <a href="https://www.linkedin.com/in/musabbirsagar/" target="_blank">LinkedIn</a> and <a href="https://twitter.com/MusabbirSagar" target="_blank">Twitter</a><br/>
-💬.  Directly reach me by messege at <a href="https://wa.me/881765692886" target="_blank">WhatsApp</a> or by email at <a href="mailto:sagarmusabbir@gmail.com" target="_blank">Email</a><br/>
+💬.  Directly reach me by messege at <a href="https://wa.me/1325859992" target="_blank">WhatsApp</a> or by email at <a href="mailto:sagarmusabbir@gmail.com" target="_blank">Email</a><br/>
 🔗.  Follow my digital footprints on <a href="https://dev.to/sagarmusabbir"  target="_blank">Dev.To</a> <a href="https://medium.com/@sagarmusabbir"  target="_blank">Medium</a><br/>
 
 
 
-**⚙️ My Ecosystem**
+## ⚙️ My Ecosystem
 <p float="left">
 <img src="https://img.shields.io/badge/_cloudflare-%23334155?style=for-the-badge&logo=cloudflare"/>
 <img src="https://img.shields.io/badge/_-Next-%23334155?style=for-the-badge&logo=next.js"/> 
@@ -44,11 +44,26 @@ I have over a decade of experience in web development, having worked with multip
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarmusabbir&show_icons=true&theme=radical" />
 
 
-**🤖 Open Source Contributions**
+## 🤖 Open Source Contributions
 
-|[<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sagarmusabbir&repo=Eventually&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://www.creative-tim.com/courses "How to use React with Firebase and Redux: Introduction")|[<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sagarmusabbir&repo=nomadgang-blockTheme&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://www.creative-tim.com/courses "How to use React with Firebase and Redux: Introduction")|[<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sagarmusabbir&repo=next-flowbite-react&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://www.creative-tim.com/courses "How to use React with Firebase and Redux: Introduction")
-|:--:|:--:|:--:|
 
+> ### Bracket UI - TailwindCSS + Next.js Component Library
+> *Role:* Creator and primary contributor  
+> *Tech Stack:* Next.js, Tailwind CSS, React, Typescript 
+> *Description:* BracketUI is an open source TailwindCSS based UI component library from Third Bracket designed for React/Next.js projects.
+> [View Project](https://github.com/sagarmusabbir/bracketui)
+
+> ### Bracket Home
+> *Role:* Creator and primary contributor  
+> *Tech Stack:* Next.js, Tailwind CSS, PayloadCMS 
+> *Description:* A modern media sharing application for local networks, designed for seamless photo and video sharing within home or office environments. Built with Next.js, PayloadCMS, and Tailwind CSS.
+> [View Project](https://github.com/sagarmusabbir/bracket-home)
+
+> ### Geo - Geolocation based website redirect
+> *Role:* Creator and primary contributor
+> *Tech Stack:* Vercel, Next.js, json  
+> *Description:* This prpjects helps multi-regional website redirects  
+> [View Project](https://github.com/sagarmusabbir/noMad-geolocation-vercel)
 
 
 
